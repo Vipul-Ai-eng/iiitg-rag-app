@@ -6,7 +6,7 @@ A Retrieval-Augmented Generation (RAG) application built to answer questions rel
 
 This project enables users to interact with IIIT Guwahati-related information through a conversational interface. Instead of relying solely on the LLM's pre-trained knowledge, the system retrieves relevant information from a curated knowledge base and generates accurate, context-aware responses.
 
-The application follows the Retrieval-Augmented Generation (RAG) paradigm, which combines document retrieval with generative AI to improve factual accuracy and reduce hallucinations. :contentReference[oaicite:0]{index=0}
+The application follows the Retrieval-Augmented Generation (RAG) paradigm, which combines document retrieval with generative AI to improve factual accuracy and reduce hallucinations.
 
 ---
 
